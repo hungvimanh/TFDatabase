@@ -171,4 +171,7 @@
   <ItemGroup>
     <None Include="Migrations\003_20190911-1234_Hung-Vi-Manh.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\004_20190916-1755_Hung-Vi-Manh.sql" />
+  </ItemGroup>
 </Project>
