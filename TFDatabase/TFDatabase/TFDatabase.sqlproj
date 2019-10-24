@@ -186,4 +186,13 @@
   <ItemGroup>
     <None Include="Migrations\008_20190923-1302_Hung-Vi-Manh.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\009_20191001-1312_Hung-Vi-Manh.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\010_20191023-2344_Hung-Vi-Manh.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\011_20191024-2237_Hung-Vi-Manh.sql" />
+  </ItemGroup>
 </Project>
