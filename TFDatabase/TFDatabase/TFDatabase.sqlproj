@@ -198,4 +198,7 @@
   <ItemGroup>
     <None Include="Migrations\012_20191107-2351_Hung-Vi-Manh.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\013_20191111-1052_Hung-Vi-Manh.sql" />
+  </ItemGroup>
 </Project>
